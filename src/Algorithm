@@ -1,0 +1,5 @@
+1. User fdupe to get different sets(Same content but could be different filename)
+2. Feed 1 line which represents 1 set into the perl to tell
+  1. 
+  2. 
+perl's job cp one dup to the output directory, print dup record 
